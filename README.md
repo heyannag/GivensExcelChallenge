@@ -1,2 +1,0 @@
-# GivensExcelChallenge
-W1
